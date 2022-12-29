@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+   background-color:#FF0000 ;}
+
+#carouselExampleIndicators {
+    background-color: black;
+}
+
+
+
+#carouselExampleIndicators img {
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+
+#carouselExampleIndicators h1 {
+    color:blueviolet;
+    margin-bottom:40px ;
+}
